@@ -1,1 +1,9 @@
-# acts-of-rvlt-onboarding-for-friends
+# Acts Of RVLT
+
+## Aleksandra
+| Description | Estimated Value | Shall Be Proposed in Round|
+|-------------|-------------|-------------|
+| Translate Explanation Text From German To Polish | 0.01 ETH | still open |
+| Offer CULT Body Painting | 0.01 ETH | still open |
+| CULT Tattoo | 0.02 ETH | still open |
+| ... | ... | ... |
